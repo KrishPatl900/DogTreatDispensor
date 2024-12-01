@@ -1,0 +1,13 @@
+These are the materials needed:
+
+
+-------------------------------------------------------------
+1x arduino uno r3
+1x buzzer
+
+1x servo (attatched underneath bowl
+
+
+-------------------------------------------------------------
+Hot glue
+3D printer/fillament
